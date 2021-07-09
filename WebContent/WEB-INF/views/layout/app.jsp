@@ -14,7 +14,7 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by kadiai_sample
+                by kadai_sample
             </div>
         </div>
     </body>
